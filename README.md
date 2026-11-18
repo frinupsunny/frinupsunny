@@ -1,4 +1,4 @@
 
-# Hi, I'm Frinu P. Sunny 👋
+# Hi, I'm Frinu P Sunny 👋
 
-### M.Sc. Data Science Student | Python Developer | Data Enthusiast
+### MSc. Data Science Student | Data Enthusiast | Exploring Technology & Innovation
